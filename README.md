@@ -1,0 +1,1 @@
+To see how we made our project, download the Jupyter Notebook file, then visit https://www.zillow.com/research/data/?msockid=34ee04c36b49692931d016c16a696881 from there, follow instructions on the .ipynb file to download the large dataset
